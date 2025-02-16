@@ -1,0 +1,53 @@
+* {
+    background-color: lavender;
+}
+
+#Titulo {
+    
+    color: yellow;
+    background-color: darkgrey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px, 5px, 5px black;
+    border-style: outset;
+    border-color: bisque;
+    border-radius: 10px;
+    border-width: 4px;
+
+
+}
+
+
+p.especial {
+    color: aqua;
+}
+
+div p {
+    color: cornflowerblue;
+}
+
+div h2 {
+    color: darkblue;
+}
+
+* {
+    font-size: 24px;
+    color: black;
+}
+/*@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw0aXpsog.woff2) format('woff2');
+    unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+*/
+div h2 {
+    /*border: 2px black dashed;*/
+    border-style: groove;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 3px;
+}
+* {
+    text-align: center;
+}
+
